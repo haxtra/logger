@@ -1,0 +1,14 @@
+{
+  "name": "@haxtra/logger",
+  "version": "0.9.0",
+  "description": "Configurable console logger with support for multiple independent groups",
+  "homepage": "https://github.com/haxtra/logger",
+  "repository": "github:haxtra/logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["log","logger","logging","console","color"],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
