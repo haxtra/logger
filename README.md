@@ -2,6 +2,8 @@
 
 Configurable console logger with support for multiple independent groups.
 
+[![Screenshot](https://media.haxtra.com/logger.png)](https://media.haxtra.com/logger.png)
+
 
 ## Install
 
