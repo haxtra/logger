@@ -127,7 +127,7 @@ log.setGlobalLevel(level) // global level
 
 ## Pausing output
 
-You can pause logging anytime by:
+Logging can be paused anytime by:
 
 ```js
 // cycle instance logging
@@ -176,3 +176,5 @@ node app.js >> stdout.log 2>> stderr.log
 ## License
 
 MIT
+
+![](https://hello.haxtra.com/gh-logger)
